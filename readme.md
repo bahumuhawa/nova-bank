@@ -4,7 +4,7 @@ Welcome to Nova Bank, where we bring you our Revolutionary Financial Transaction
 
 NovaBank - Discover a cutting-edge website powered by React.js and styled with Tailwind CSS, offering a modern UI/UX experience.
 
-Getting started to use Nova Bank, follow these simple steps:
+## Getting started:
 
 1. Clone the Nova Bank respository from github:
 2. Open the project
