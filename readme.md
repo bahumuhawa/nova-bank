@@ -1,4 +1,4 @@
-# Nova Bank: The Innovative Cutting-edge Payment Solutions.
+# Nova Bank: Cutting-edge Payment Solutions.
 
 Welcome to Nova Bank, where we offer a Revolutionary Financial Transaction Method, providing a cutting-edge payment solution at the forefront of digital innovation. Experience the future of banking through NovaBank's modern UI/UX website powered by React.js and styled with Tailwind CSS.
 
