@@ -4,7 +4,7 @@ Welcome to Nova Bank, where we offer a Revolutionary Financial Transaction Metho
 
   ![Future Of Banking](nova-bank.png)
 
-## Getting started
+## Getting Started
 
 1. Clone the Nova Bank respository from github
 2. Open the project
