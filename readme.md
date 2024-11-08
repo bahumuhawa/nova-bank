@@ -6,7 +6,7 @@ Welcome to Nova Bank, where we offer a Revolutionary Financial Transaction Metho
 
 ## Getting Started
 
-1. Clone the Nova Bank respository from github
+1. Clone the Nova Bank respository from github: https://github.com/bahumuhawa/nova-bank
 2. Open the project
 
 - cd nova-bank
